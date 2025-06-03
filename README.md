@@ -3,7 +3,7 @@ Here is a live list of Resources that could be helpful for you to keep up with t
 
 **Index**
 
-* [Agentic AI and Agents](https://github.com/Marktechpost/AI-Notebooks?tab=readme-ov-file#agentic-ai-and-agents)
+* [AI Blogs](https://github.com/Marktechpost/AI-Notebooks?tab=readme-ov-file#agentic-ai-and-agents)
 
 
 
