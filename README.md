@@ -22,3 +22,17 @@ Here is a live list of Resources that could be helpful for you to keep up with t
 * [KDnuggets](https://www.kdnuggets.com/)
 
 * [The New Stack](https://thenewstack.io/)
+
+### Newsletters
+
+* The Rundown
+* The MTP AI Newsletter
+* Mindstream
+* AI Breakfast
+* Ben’s Bites
+* Superhuman
+* The Neuron
+* AlphaSignal
+* TLDR AI
+
+* 
