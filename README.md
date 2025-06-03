@@ -1,9 +1,9 @@
 # Top-AI-Blogs-Newsletters
 Here is a live list of Resources that could be helpful for you to keep up with the latest AI developments, frameworks, and model releases—especially the ones not making mainstream headlines
 
-**Index**
+### Index
 
-* [AI Blogs](https://github.com/Marktechpost/AI-Notebooks?tab=readme-ov-file#agentic-ai-and-agents)
+* [AI Blogs](https://github.com/Marktechpost/Top-AI-Blogs-Newsletters/tree/main?tab=readme-ov-file#blogs)
 
 
 
