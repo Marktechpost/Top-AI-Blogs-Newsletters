@@ -20,14 +20,14 @@ Here is a live list of Resources that could be helpful for you to keep up with t
 
 ### Newsletters
 
-* The Rundown
-* The MTP AI Newsletter
-* Mindstream
-* AI Breakfast
-* Ben’s Bites
-* Superhuman
-* The Neuron
-* AlphaSignal
-* TLDR AI
+* [The Rundown](https://www.therundown.ai/)
+* [The MTP AI Newsletter](https://newsletter.marktechpost.com/)
+* [Mindstream](https://www.mindstream.news/)
+* [AI Breakfast](https://aibreakfast.beehiiv.com/)
+* [Ben’s Bites](https://bensbites.beehiiv.com/)
+* [Superhuman](https://www.superhuman.ai/subscribe)
+* [The Neuron](https://www.theneurondaily.com/)
+* [AlphaSignal](https://alphasignal.ai/)
+* [TLDR AI](https://tldr.tech/ai)
 
 * 
