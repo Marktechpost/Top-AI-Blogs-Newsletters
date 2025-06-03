@@ -11,14 +11,14 @@ Here is a live list of Resources that could be helpful for you to keep up with t
 
 ### Blogs
 
-▶ [Hacker News](https://news.ycombinator.com/news)
+* [Hacker News](https://news.ycombinator.com/news)
 
-▶ [Marktechpost](https://www.marktechpost.com/)
+* [Marktechpost](https://www.marktechpost.com/)
 
-▶ [Synced Review](https://syncedreview.com/)
+* [Synced Review](https://syncedreview.com/)
 
-▶ [Venture Beat](https://venturebeat.com/)
+* [Venture Beat](https://venturebeat.com/)
 
-▶ [KDnuggets](https://www.kdnuggets.com/)
+* [KDnuggets](https://www.kdnuggets.com/)
 
-▶ [The New Stack](https://thenewstack.io/)
+* [The New Stack](https://thenewstack.io/)
